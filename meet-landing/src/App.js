@@ -3,6 +3,7 @@ import Header from './Header';
 import Intro from './Intro';
 import Content from './Content';
 import Footer from './Footer';
+import "@fontsource/red-hat-display"
 
 import {
   ChakraProvider,

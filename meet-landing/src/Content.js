@@ -33,7 +33,7 @@ const Content = () => {
 
         <Text 
         align='center' 
-        fontFamily='Red Hat Display Black' 
+        fontFamily='font.heading'
         fontSize={['16px','26px','15px','15px','16px','30px']}
         lineHeight={['26px','26px','22px','20px','26px','60px']}
         letterSpacing='4px' 
@@ -43,7 +43,7 @@ const Content = () => {
           <Box>
             <Heading 
             align='center' 
-            fontFamily='Red Hat Display Black' 
+            fontFamily='font.heading'
             fontSize={['30px','60px','40px','40px','60px','90px']}
             color='#28283D' 
             my={5} 
@@ -56,7 +56,7 @@ const Content = () => {
           <Box>
             <Text 
             align='center' 
-            fontFamily='Red Hat Display Medium' 
+            fontFamily='font.heading'
             fontSize={['10px','26px','15px','15px','16px','30px']}
             color='#87879D' 
             lineHeight={['18px','26px','22px','20px','26px','45px']}>

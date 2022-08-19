@@ -31,7 +31,7 @@ const Footer = () => {
               <Text 
               mt={['-350px','100px','-350px','-150px','-210px','-350px']}
               align= {['center','center','center','left','left','left']}
-              fontFamily='Red Hat Display Black' 
+              fontFamily='font.heading'
               fontSize={['34px','64px','44px','40px','54px','84px']}
               color='#FAFAFA' 
               lineHeight={['34px','64px','44px','40px','54px','84px']}>Experience more<br></br>together</Text>
@@ -41,7 +41,7 @@ const Footer = () => {
               <Text 
               mt={['-230px','-200px','-200px','-140px','-190px','-350px']}
               align='center'
-              fontFamily='Red Hat Display Medium' 
+              fontFamily='font.heading'
               fontSize={['12px','18px','15px','15px','18px','40px']} 
               color='#FAFAFA' 
               lineHeight={['18px','26px','22px','20px','26px','60px']}>Stay connected with reliable HD meetings<br></br> and unlimited one-on-one and group<br></br> video sessions.</Text>

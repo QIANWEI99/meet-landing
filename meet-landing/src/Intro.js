@@ -42,7 +42,7 @@ const Intro = () => {
                 gap={5}>
                         <Box>
                         <Heading 
-                        fontFamily='Red Hat Display Black' 
+                        fontFamily='font.heading'
                         fontSize={['34px','64px','44px','44px','64px','94px']}
                         color='#28283D' 
                         lineHeight={['34px','64px','44px','44px','64px','94px']}>Group Chat<br></br>for Everyone</Heading>
@@ -50,7 +50,7 @@ const Intro = () => {
                     
                         <Box>
                         <Text 
-                        fontFamily='Red Hat Display Medium' 
+                        fontFamily='font.heading'
                         fontSize={['12px','18px','15px','15px','18px','40px']}
                         color='#87879D' 
                         lineHeight={['18px','26px','22px','20px','26px','60px']}
